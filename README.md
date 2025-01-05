@@ -44,14 +44,14 @@
 <ul align="left">
   <li>Building real-time applications with Spring Boot &  AngularJS.</li>
   <li>Enhancing expertise in Java microservices architecture and event-driven systems.</li>
-  <li>Improving my skills in Full Stack Development with Spring Boot, Angular, Docker & AWS.</li>
+  <li>Enhancing Full Stack Development skills with Spring Boot, Angular, Docker & AWS.</li>
 </ul>
   
 <h3 align="left">Latest Projects</h3>
 <ul align="left">
-  <li><a href="https://www.linkedin.com/in/rahuldevligri/">🏥A web application for managing doctor appointments, providing users with an easy way to book, cancel, and track appointments.🔖</a></li>
-  <li><a href="https://github.com/rahuldevligri/sso_implementation">🧙‍♂A project demonstrating the implementation of Single Sign-On (SSO) using SAML in a Java Spring Boot application, ensuring seamless & secure authentication.</a></li>
-  <li><a href="https://github.com/rahuldevligri/Kafka-deliveryboy-location-producer">🚀A Spring-based application that acts as both a Kafka consumer & a producer.</a></li>
+  <li><a href="https://www.linkedin.com/in/rahuldevligri/">🏥Doctor Appointment System: Book, cancel, and track appointments seamlessly.🔖</a></li>
+  <li><a href="https://github.com/rahuldevligri/sso_implementation">🧙‍♂SSO Integration: Secure authentication with SAML Assertion, MetaData & Spring Boot.</a></li>
+  <li><a href="https://github.com/rahuldevligri/Kafka-deliveryboy-location-producer">🚀 Kafka Microservices: Consumer & producer for location updates.</a></li>
 </ul>
 <br />
 <br />
