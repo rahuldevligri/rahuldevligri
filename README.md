@@ -44,7 +44,7 @@
 <ul align="left">
   <li>Building real-time applications with Spring Boot &  AngularJS.</li>
   <li>Enhancing expertise in Java microservices architecture and event-driven systems.</li>
-  <li>Enhancing Full Stack Development skills with Spring Boot, Angular, Docker & AWS.</li>
+  <li>Improving Full Stack Development skills with Spring Boot, Angular, Docker & AWS.</li>
 </ul>
   
 <h3 align="left">Latest Projects</h3>
