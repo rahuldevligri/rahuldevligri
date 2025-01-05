@@ -539,15 +539,15 @@
 </a>
 
 <a href="https://x.com/rahuldevligri" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="rahuldevligri" style="margin-bottom: 5px;" />
+<img src="./twitter.png" width=50 height=50 alt="Twitter" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/rahuldevligri" target="_blank">
-<img src="./github.png" width=50 height=50 alt="rahuldevligri" style="margin-bottom: 5px;" />
+<a href="https://www.github.com/rahuldevligri" target="_blank">
+<img src="./github.png" width=50 height=50 alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/rahuldevligri/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+<img src="./linkedin.png" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
