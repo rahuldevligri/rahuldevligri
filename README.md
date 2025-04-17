@@ -83,7 +83,7 @@
       <h3 align="center" style="color: #4F86F7;"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/rahuldevligri">
-          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=radical&background=121330&fire=FFD700&ring=FFD700&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=FFFFFF" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=rahuldevligri&theme=radical&background=121330&fire=FFD700&ring=FFD700&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=FFFFFF" alt="Streak Stats" />
         </a>
       </p>
     </td>
