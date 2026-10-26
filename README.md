@@ -63,29 +63,29 @@ I'm a **Java Backend Software Engineer** focused on building APIs, service integ
   <tr>
     <td width="50%" valign="top">
       <h3>🔐 SSO Integration</h3>
-      <p>Spring Boot SAML integration work covering assertions, metadata, and secure authentication flows.</p>
+      <p>Spring Boot SAML 2.0 integration covering assertions, metadata, and secure authentication flows.</p>
       <a href="https://github.com/rahuldevligri/sso_implementation"><strong>View repository →</strong></a><br>
-      <sub>Java · Spring Boot · SAML 2.0</sub>
+      <sub>Java · Spring Boot · SAML 2.0 · SSO</sub>
     </td>
+    <td width="50%" valign="top">
+      <h3>🏆 SmartReactor AI</h3>
+      <p>AI-assisted app review responder using FAQ context retrieval and empathetic, brand-aligned response drafts. Recognized with the Best Use of Technology — Zeallance Award at Zaggle.</p>
+      <a href="https://rahuldevligri.github.io/projects/smartreactor-ai.html"><strong>Read case study →</strong></a><br>
+      <sub>GPT-4o · FAISS · Flask · LangChain · Redis</sub>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📍 Kafka Location Pipeline</h3>
       <p>Producer-side application for publishing delivery-location updates to a Kafka topic.</p>
       <a href="https://github.com/rahuldevligri/Kafka-deliveryboy-location-producer"><strong>View repository →</strong></a><br>
       <sub>Java · Apache Kafka · Event-driven systems</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📚 Book Portal</h3>
-      <p>Spring Boot web application exploring authentication, database persistence, REST APIs, and reporting.</p>
+      <p>Spring Boot book management application exploring authentication, database persistence, REST APIs, and reporting.</p>
       <a href="https://github.com/rahuldevligri/Book-portal"><strong>View repository →</strong></a><br>
       <sub>Java · Spring Boot · MySQL · Spring Security</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💳 Razorpay Payment Gateway</h3>
-      <p>Payment-flow project using a Spring Boot application, Razorpay SDK integration, and a checkout page.</p>
-      <a href="https://github.com/rahuldevligri/Razorpay-Payment-Gateway"><strong>View repository →</strong></a><br>
-      <sub>Java · Spring Boot · Razorpay · Thymeleaf</sub>
     </td>
   </tr>
 </table>
