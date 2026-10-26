@@ -1,7 +1,7 @@
 <!-- Rahul Devligri | GitHub Profile README | 2026 refresh -->
 
 <div align="center">
-  <img src="./banner-2026.svg" alt="Rahul Devligri — Java Backend Engineer" width="100%">
+  <img src="./banner-2026.jpg" alt="Rahul Devligri working in a backend engineering workspace" width="100%">
   <br><br>
   <a href="https://github.com/rahuldevligri">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Java+Backend+Engineer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Kafka+%7C+SAML+SSO+%7C+SQL;Building+secure%2C+reliable+backend+systems" alt="Animated Java backend engineering headline">
