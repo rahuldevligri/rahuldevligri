@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Rahul Devligri — Java Backend Engineer</title>
+  <desc id="desc">Dark navy and blue engineering banner with glowing lines, nodes, and backend engineering labels.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080d18"/>
+      <stop offset="55%" stop-color="#101a31"/>
+      <stop offset="100%" stop-color="#102c56"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#7c9cff"/>
+      <stop offset="100%" stop-color="#5eead4"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#8cbcff" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <circle cx="1020" cy="130" r="190" fill="#2563eb" opacity=".13"/>
+  <circle cx="1020" cy="130" r="130" fill="none" stroke="#58a6ff" stroke-opacity=".3" stroke-width="1.5"/>
+  <circle cx="1020" cy="130" r="88" fill="none" stroke="#5eead4" stroke-opacity=".35" stroke-width="1.5"/>
+  <g stroke="url(#accent)" stroke-width="2" stroke-linecap="round" fill="none" opacity=".8">
+    <path d="M785 45 H900 L940 85 H1060"/><path d="M820 245 H905 L950 200 H1120"/>
+    <path d="M1010 40 V80 L1060 130 L1140 130"/><path d="M890 150 H945 L985 190"/>
+  </g>
+  <g fill="#58a6ff" filter="url(#glow)"><circle cx="900" cy="45" r="4"/><circle cx="1060" cy="85" r="4"/><circle cx="820" cy="245" r="4"/><circle cx="1120" cy="200" r="4"/><circle cx="1140" cy="130" r="4"/></g>
+  <rect x="58" y="45" width="7" height="205" rx="3.5" fill="url(#accent)"/>
+  <text x="92" y="115" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="5">SOFTWARE ENGINEER</text>
+  <text x="88" y="170" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700" font-size="47">RAHUL DEVLIGRI</text>
+  <text x="92" y="211" fill="url(#accent)" font-family="JetBrains Mono, Consolas, monospace" font-size="23" font-weight="600">JAVA BACKEND ENGINEER</text>
+  <text x="92" y="247" fill="#b8c7de" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">Spring Boot  ·  Microservices  ·  Kafka  ·  Secure APIs</text>
+  <rect x="90" y="269" width="390" height="3" rx="1.5" fill="url(#accent)" opacity=".8"/>
+</svg>
