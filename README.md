@@ -1,90 +1,105 @@
-<p align="center">
-  <img src="rahul_github_banner_1200x300.png" alt="Rahul Devligri working in a backend engineering workspace" width="100%" />
-</p>
+<!-- Rahul Devligri | GitHub Profile README | 2026 refresh -->
 
-<p align="center">
-  <strong>Java Backend Engineer</strong> · Spring Boot · Microservices · Kafka · Secure APIs
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahuldevligri/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<div align="center">
+  <img src="./banner-2026.jpg" alt="Rahul Devligri working in a backend engineering workspace" width="100%">
+  <br><br>
   <a href="https://github.com/rahuldevligri">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Java+Backend+Engineer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Kafka+%7C+SAML+SSO+%7C+SQL;Building+secure%2C+reliable+backend+systems" alt="Animated Java backend engineering headline">
   </a>
-  <a href="mailto:rahuldevligri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+  <br><br>
+  <a href="https://rahuldevligri.github.io"><img src="https://img.shields.io/badge/Portfolio-Explore-0D1117?style=for-the-badge&logo=firefox&logoColor=58A6FF" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/rahuldevligri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
+  <a href="mailto:rahuldevligri@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
+  <a href="https://github.com/rahuldevligri?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Repositories"></a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=rahuldevligri&label=PROFILE%20VIEWS&color=1f6feb&style=flat-square" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/rahuldevligri?label=FOLLOWERS&style=flat-square&color=1f6feb" alt="GitHub followers">
+</div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-I'm a Java Backend Engineer focused on building **scalable APIs, secure integrations, and reliable backend services**. I enjoy working on service-to-service communication, event-driven workflows, authentication flows, and practical engineering problems.
+I'm a **Java Backend Software Engineer** focused on building APIs, service integrations, and maintainable backend systems. I enjoy debugging integration issues, improving service reliability, and learning how distributed systems behave in production.
 
-- **Backend:** Java, Spring Boot, REST APIs, Microservices
-- **Identity & Security:** SAML 2.0, OpenSAML, JWT, Spring Security, SSO
-- **Messaging:** Apache Kafka, event-driven processing
+- **Backend:** Java, Spring Boot, REST APIs, microservices
+- **Identity & security:** SAML 2.0 / OpenSAML, JWT, Spring Security, SSO
+- **Messaging:** Apache Kafka, producers, consumers, event-driven workflows
 - **Data:** PostgreSQL, MySQL, Redis, Spring Data JPA
-- **Engineering interests:** API design, system design, testing, observability, production debugging
+- **Tools:** Git, Gradle, Docker, AWS fundamentals
+- **Currently sharpening:** system design, testing, observability, and production debugging
 
-## Technology Stack
+> I value clear APIs, practical engineering, and code that the next engineer can understand.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,docker,aws,git,github,idea,vscode,python&theme=dark" alt="Java, Spring, PostgreSQL, MySQL, Redis, Docker, AWS, Git, GitHub, IntelliJ IDEA, VS Code, Python" />
-</p>
+## 🧩 Technology Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/SAML%202.0%20%2F%20SSO-173B63?style=for-the-badge&logo=auth0&logoColor=white" alt="SAML 2.0 and SSO" />
-  <img src="https://img.shields.io/badge/REST%20APIs-087EA4?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
-</p>
+<div align="center">
 
-## Featured Projects
+**Backend & APIs**  
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,postman&theme=dark" alt="Java, Spring, Hibernate, Gradle, and Postman">
+
+**Data & Messaging**  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka&theme=dark" alt="PostgreSQL, MySQL, Redis, and Kafka">
+
+**Tools & Platforms**  
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,idea,vscode&theme=dark" alt="Git, GitHub, Docker, AWS, Linux, IntelliJ IDEA, and VS Code">
+
+</div>
+
+<details>
+<summary><strong>More of my toolkit</strong></summary>
+
+- **Java:** Collections, Streams, exception handling, concurrency fundamentals, JVM fundamentals
+- **Spring:** Spring Boot, Spring Security, Spring Data JPA, validation, dependency injection
+- **Integration:** REST, WebClient, JSON, SAML 2.0, JWT, Kafka
+- **Databases:** PostgreSQL, MySQL, Redis
+- **Build & delivery:** Gradle, Git, Docker, AWS fundamentals
+
+</details>
+
+## 🚀 Selected Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/rahuldevligri/sso_implementation">SSO Implementation</a></h3>
-      <p>Spring Boot SAML integration focused on assertion handling, metadata, and secure authentication flows.</p>
-      <p><sub>Java · Spring Boot · SAML 2.0 · Security</sub></p>
+      <h3>🔐 SSO Integration</h3>
+      <p>Spring Boot SAML integration work covering assertions, metadata, and secure authentication flows.</p>
+      <a href="https://github.com/rahuldevligri/sso_implementation"><strong>View repository →</strong></a><br>
+      <sub>Java · Spring Boot · SAML 2.0</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/rahuldevligri/employee-onboarding-kafka-consumer">Kafka Consumer</a></h3>
-      <p>Event-driven employee onboarding and message-consumer workflow.</p>
-      <p><sub>Java · Apache Kafka · Event-driven systems</sub></p>
+      <h3>📍 Kafka Location Pipeline</h3>
+      <p>Producer-side application for publishing delivery-location updates to a Kafka topic.</p>
+      <a href="https://github.com/rahuldevligri/Kafka-deliveryboy-location-producer"><strong>View repository →</strong></a><br>
+      <sub>Java · Apache Kafka · Event-driven systems</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💳 <a href="https://github.com/rahuldevligri/Razorpay-Payment-Gateway-Integration">Razorpay Payment Gateway</a></h3>
-      <p>Spring Boot payment integration with transaction handling and database persistence.</p>
-      <p><sub>Java · Spring Boot · REST APIs · Database</sub></p>
+      <h3>📚 Book Portal</h3>
+      <p>Spring Boot web application exploring authentication, database persistence, REST APIs, and reporting.</p>
+      <a href="https://github.com/rahuldevligri/Book-portal"><strong>View repository →</strong></a><br>
+      <sub>Java · Spring Boot · MySQL · Spring Security</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🗂️ <a href="https://github.com/rahuldevligri/Project_Management_System">Project Management System</a></h3>
-      <p>A Java project focused on organizing project data and core management workflows.</p>
-      <p><sub>Java · Backend development</sub></p>
+      <h3>💳 Razorpay Payment Gateway</h3>
+      <p>Payment-flow project using a Spring Boot application, Razorpay SDK integration, and a checkout page.</p>
+      <a href="https://github.com/rahuldevligri/Razorpay-Payment-Gateway"><strong>View repository →</strong></a><br>
+      <sub>Java · Spring Boot · Razorpay · Thymeleaf</sub>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/rahuldevligri?tab=repositories"><strong>Explore all repositories →</strong></a>
-</p>
+## 🧭 Current Focus
 
-## Current Focus
-
-- Designing clean, maintainable backend APIs and service boundaries
-- Practicing data structures, algorithms, and system design
-- Improving automated testing, logging, monitoring, and debugging habits
-- Exploring secure integrations and reliable event-driven architectures
+- Design cleaner APIs and scalable Java services.
+- Strengthen testing, logging, monitoring, and incident troubleshooting.
+- Practice DSA and system design through hands-on learning.
 
 ---
 
-<p align="center">
-  <em>Build thoughtfully. Keep systems reliable. Keep learning.</em>
-</p>
+<div align="center">
+  <sub>Java Backend Engineering · Continuous Learning · Refreshed for 2026</sub>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=90&section=footer" alt="Blue gradient wave footer">
+</div>
