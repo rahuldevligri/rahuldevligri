@@ -90,30 +90,11 @@ I'm a **Java Backend Software Engineer** focused on building APIs, service integ
   </tr>
 </table>
 
-<p align="center"><a href="https://github.com/rahuldevligri?tab=repositories"><strong>Explore all repositories →</strong></a></p>
-
-## 📈 GitHub Activity
-
-I keep working on backend projects, Java practice, and system-design learning. GitHub's native contribution calendar and activity timeline are visible directly below this profile README.
-
-<div align="center">
-  <a href="https://github.com/rahuldevligri?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
-  <a href="https://github.com/rahuldevligri?tab=stars"><img src="https://img.shields.io/badge/Explore-Starred%20Projects-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Starred projects"></a>
-</div>
-
 ## 🧭 Current Focus
 
 - Design cleaner APIs and scalable Java services.
 - Strengthen testing, logging, monitoring, and incident troubleshooting.
 - Practice DSA and system design through hands-on learning.
-
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rahuldevligri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:rahuldevligri@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://rahuldevligri.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-238636?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-</div>
 
 ---
 
